@@ -1,3 +1,4 @@
+// ConsulConfig.java
 package org.devquality.consulservice.config;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
