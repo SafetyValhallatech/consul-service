@@ -1,4 +1,4 @@
-# bootstrap.yml - Configuración para conectar con Config Server
+# bootstrap.yml - Configuraciï¿½n para conectar con Config Server
 spring:
   application:
     name: consul-service
